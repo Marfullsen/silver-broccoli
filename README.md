@@ -1,5 +1,5 @@
 # Sound Files cutter
-[![](https://img.shields.io/badge/Python%203-yellow?style=for-the-badge&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/Python%203-yellow?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 [![script](./screenshots/script-cutter-py.png)]()
 
